@@ -1,0 +1,6 @@
+{
+  "name": "عربي ابتدائي",
+  "description": "تطبيق تعليمي تفاعلي لمنهج اللغة العربية لسنوات المرحلة الابتدائية (من الصف الأول حتى السادس الابتدائي) يشمل الدروس والأنشطة والاختبارات التفاعلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
